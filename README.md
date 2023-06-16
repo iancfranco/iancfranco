@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @iancfranco
+- 👀 I’m interested in PYTHON / ASSEMBLY / PHP / C
+- 🌱 I’m currently learning HTML / CSS / C#
+- 💞️ I’m looking to collaborate on #
+- 📫 Discord: @eopatu or eopatu#0600
