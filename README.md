@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iancfranco
 - 👀 I’m interested in PYTHON / PHP / RUST
-- 🌱 I’m currently learning C++
+- 🌱 CyberSecurity entusiast
 - 💞️ I’m looking to collaborate on #
 - 📫 Discord: @eopatu or eopatu#0600
